@@ -1,0 +1,18 @@
+{
+    "name": "candidsky/bb_calculator",
+    "version": "1.0.0",
+    "type": "wordpress-dropin",
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/CandidSkyTeam/bb_calculator.git"
+        }
+    ],
+    "require-dev": {
+
+    },
+    "require": {
+
+    }
+}

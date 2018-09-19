@@ -1,0 +1,11 @@
+.orange-bg{
+  background: orange !important;
+  border-color: orange !important;
+  box-shadow: 0 1px 0 orange !important;
+  color: #fff !important;
+  text-decoration: none !important;
+  text-shadow: 0 -1px 1px orange, 1px 0 1px orange, 0 1px 1px orange, -1px 0 1px orange !important;
+  &:hover{
+    background: darkorange !important;
+  }
+}
