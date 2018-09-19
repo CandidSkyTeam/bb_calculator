@@ -136,6 +136,7 @@ $gray_lighter: #f6f6f6;
         padding:0;
         width:100%;
         li{
+          margin:0;
           @include grid(15,0);
           align-items: center;
           font-family: 'Open Sans', sans-serif;
@@ -225,6 +226,7 @@ $gray_lighter: #f6f6f6;
         width:100%;
         @include grid(15,0);
         li{
+          margin:0;
           background:#fff;
           padding-left:0;
           padding-right:0;
@@ -260,6 +262,7 @@ $gray_lighter: #f6f6f6;
         font-family: 'Open Sans', sans-serif;
         @include grid(15,0);
         li{
+          margin:0;
           background:#fff;
           display:flex;
           &:nth-child(1){
@@ -648,6 +651,7 @@ $gray_lighter: #f6f6f6;
     white-space: nowrap;
     width: auto;
     color:#fff;
+    text-decoration: none;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), #203B49;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 6px;
