@@ -121,7 +121,7 @@ $options = get_option('bb_data');
                         We may be able to help! Click the button to see if we could put some extra cash in your pocket.
                     </p>
 
-                    <a class="apply-button" href="https://www.buddyloans.com/apply-now" rel="noopener" target="_blank">Apply now</a>
+                    <a class="apply-button" href="https://www.buddyloans.com/apply-now?af=117" rel="noopener" target="_blank">Apply now</a>
                 </div>
             </div>
         </article>
