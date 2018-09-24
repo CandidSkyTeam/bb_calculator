@@ -15,7 +15,7 @@ $options = get_option('bb_data');
                         echo '<ul class="top">';
                         echo '<li class="first"></li>';
                         echo '<li class="second">How much</li>';
-                        echo '<li >Weekly/Monthly/Yearly</li>';
+                        echo '<li >Weekly/<br/>Monthly/<br/>Yearly</li>';
                         echo '<li class="fourth">Useful information</li>';
                         echo '</ul>';
 
@@ -65,7 +65,7 @@ $options = get_option('bb_data');
                         echo '<ul class="top">';
                         echo '<li class="first"></li>';
                         echo '<li class="second">How much</li>';
-                        echo '<li >Weekly/Monthly/Yearly</li>';
+                        echo '<li >Weekly/<br/>Monthly/<br/>Yearly</li>';
                         echo '<li class="fourth">Useful information</li>';
                         echo '</ul>';
 
