@@ -650,6 +650,7 @@ $gray_lighter: #f6f6f6;
     user-select: none;
     white-space: nowrap;
     width: auto;
+    margin-bottom:25px;
     color:#fff;
     text-decoration: none;
     background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%), #203B49;
@@ -659,7 +660,6 @@ $gray_lighter: #f6f6f6;
       background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 100%, rgba(255, 255, 255, 0) 0%), #203B49;
     }
   }
-
 
 }
 
