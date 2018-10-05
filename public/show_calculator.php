@@ -38,7 +38,7 @@ $options = get_option('bb_data');
 ';
                                 echo '<span class="short_info right">' . $opt['short_info'] . '
                                 <div class="tooltip ">
-                                <p>'.$opt['long_info'].($opt['url'] ? '<br/><a href="'.$opt['url'].'">Learn more</a>' : '').'</p>
+                                <p>'.$opt['long_info'].($opt['url'] ? '<br/><a target="_blank" href="'.$opt['url'].'">Learn more</a>' : '').'</p>
                                 </div></span>';
 
                                 echo '</li>';
@@ -88,7 +88,7 @@ $options = get_option('bb_data');
 ';
                                 echo '<span class="short_info right">' . $opt['short_info'] . '
                                 <div class="tooltip ">
-                                <p>'.$opt['long_info'].($opt['url'] ? '<br/><a href="'.$opt['url'].'">Learn more</a>' : '').'</p>
+                                <p>'.$opt['long_info'].($opt['url'] ? '<br/><a target="_blank" href="'.$opt['url'].'">Learn more</a>' : '').'</p>
                                 </div></span>';
 
                                 echo '</li>';
